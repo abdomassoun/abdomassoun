@@ -80,6 +80,11 @@
 
 ---
 
+## 🚀 Past Projects
+
+- 🤖 **[TaskFix – AI-Powered CLI Task Formatter](https://github.com/abdomassoun/taskfix)** - Go CLI that uses OpenRouter AI to turn messy task notes into structured GitHub/Jira-ready tasks.
+- 🧪 **[Stateful Container Migration in Kubernetes for Edge Computing Environments](https://github.com/abdomassoun/container-live-migration)** - Kubernetes-based edge research project for cold migration of stateful containers using CRIU and NFS.
+
 <!-- Connect Section -->
 <div align="center">
 
