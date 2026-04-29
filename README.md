@@ -24,34 +24,10 @@
 
 <br/>
 
-<!-- GitHub Stats with Animations -->
-<div align="center">
-  
-## 📊 **GitHub Analytics**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdomassoun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&icon_color=F8D866" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomassoun&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
-</p>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=abdomassoun&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
-
-<!-- Trophy Display -->
-<img src="https://github-profile-trophy.vercel.app/?username=abdomassoun&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- Tech Stack Section -->
 <div align="center">
 
-## 🛠️ **Technology **
+# 🛠️ **Technologies**
 
 ### **Languages**
 <p>
@@ -79,8 +55,10 @@
 </div>
 
 ---
+<div align="center">
 
 ## 🚀 Past Projects
+</div>
 
 - 🤖 **[TaskFix – AI-Powered CLI Task Formatter](https://github.com/abdomassoun/taskfix)** - Go CLI that uses OpenRouter AI to turn messy task notes into structured GitHub/Jira-ready tasks.
 - 🧪 **[Stateful Container Migration in Kubernetes for Edge Computing Environments](https://github.com/abdomassoun/container-live-migration)** - Kubernetes-based edge research project for cold migration of stateful containers using CRIU and NFS.
@@ -99,6 +77,30 @@
 <a href="mailto:abdemassoune@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- GitHub Stats with Animations -->
+<div align="center">
+  
+## 📊 **GitHub Analytics**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdomassoun&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&icon_color=F8D866" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomassoun&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" />
+</p>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=abdomassoun&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
+
+<!-- Trophy Display -->
+<img src="https://github-profile-trophy.vercel.app/?username=abdomassoun&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 
 </div>
 
